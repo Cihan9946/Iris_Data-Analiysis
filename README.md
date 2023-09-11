@@ -2,7 +2,7 @@
 https://www.kaggle.com/code/mustafacihanncr/iris-csv-data-analiysis
 
 Bu çalıimada Iris.csv veri seti incellendi. ANN modeli kullanılarak makine öğrenmesi yapıldı.
-Veri satinde dengesizlikler vardı bu sebebple test size yüksek alın bunun nedeleri ise aşşağıda açıkladığım gibi
+Veri setinde dengesizlikler vardı bu sebeple test size yüksek alındı bunun nedenleri ise aşşağıda açıkladığım gibi;
 
 Test veri setinin büyük bir oranda seçilmesinin bazı nedenleri:
 
