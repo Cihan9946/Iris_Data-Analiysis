@@ -120,3 +120,23 @@ prediction = model.predict([[5, 5, 5, 5]])
 # Tahmin sonuçlarını yazdırma
 print("Tahmin Sonuçları:")
 print(prediction)
+
+
+# Kullanıcıdan girdi alıp tahmin yapma işlevi
+def predict_species(features):
+    features = np.array(features).reshape(1, -1)
+    prediction = model.predict(features)
+    predicted_class = np.argmax(prediction)
+    species_mapping = {0: 'setosa', 1: 'versicolor', 2: 'virginica'}
+    predicted_species = species_mapping[predicted_class]
+    return predicted_species
+
+# Kullanıcıdan özellik girdisi al
+user_input = []
+for col in X.columns:
+    value = float(input(f"Enter {col}: "))
+    user_input.append(value)
+
+# Tahmin yap
+predicted_species = predict_species(user_input)
+print(f"Predicted species: {predicted_species}")
