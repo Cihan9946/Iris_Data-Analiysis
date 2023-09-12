@@ -15,3 +15,7 @@ Veri Dengesizliği: Eğer veri setinizde sınıf dengesizliği varsa (bir sını
 Ancak, test veri setini büyük tutmanın dezavantajları da vardır. Özellikle veri setiniz zaten küçükse, eğitim veri seti daha küçük olduğunda modelinizin eğitimi daha az bilgiyle gerçekleşebilir ve bu da modelin performansını olumsuz etkileyebilir. Bu nedenle, test veri seti boyutunu seçerken veri miktarı ve analiz hedeflerinizi dikkate almalısınız.
 
 Sonuç olarak, test veri seti boyutunu seçerken, veri setinizin özelliklerini, analiz hedeflerinizi ve modelinizi güvenilir bir şekilde değerlendirmek istediğiniz zamanı dikkate almalısınız. Veri setinin yetersiz olması durumunda, çapraz doğrulama gibi diğer yöntemler de kullanılabilir.
+
+
+Kaggle Projesi Linki
+https://www.kaggle.com/code/mustafacihanncr/iris-csv-data-analiysis
