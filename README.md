@@ -1,4 +1,4 @@
-# Iris_Data-Analiysis
+# Iris_Data_Analiysis
 https://www.kaggle.com/code/mustafacihanncr/iris-csv-data-analiysis
 
 Bu çalıimada Iris.csv veri seti incellendi. ANN modeli kullanılarak makine öğrenmesi yapıldı.
