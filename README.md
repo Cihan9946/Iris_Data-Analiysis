@@ -1,5 +1,5 @@
-# Iris_Data_Analiysis
-https://www.kaggle.com/code/mustafacihanncr/iris-csv-data-analiysis
+  # Iris_Data_Analiysis
+  https://www.kaggle.com/code/mustafacihanncr/iris-csv-data-analiysis
 
 Bu çalıimada Iris.csv veri seti incellendi. ANN modeli kullanılarak makine öğrenmesi yapıldı.
 Veri setinde dengesizlikler vardı bu sebeple test size yüksek alındı bunun nedenleri ise aşşağıda açıkladığım gibi;
